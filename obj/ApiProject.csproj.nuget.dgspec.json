@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\ApiProject.csproj": {}
+    "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\ApiProject.csproj": {
+    "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "projectUniqueName": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject.csproj",
         "projectName": "ApiProject",
-        "projectPath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\ApiProject.csproj",
+        "projectPath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject.csproj",
         "packagesPath": "C:\\Users\\david.fry\\.nuget\\packages\\",
-        "outputPath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\obj\\",
+        "outputPath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

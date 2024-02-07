@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9P0ZaUXn6JfKZ1BcbHCA9dghdt4k9ZwvSAuo5fIp6vKMqsIQZEKYO0dD8mYpMrJrVPNuJFxXQOMJ5E0FDUMrbQ==",
+  "dgSpecHash": "LcCcEUcSYsCVFTs6lYCo6JWIVXVgUgICOiQNrbzHtwKWalzNVjfQByaALTdACPXw29sTKRAULBYoqBFlcH1W9Q==",
   "success": true,
-  "projectFilePath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject\\ApiProject.csproj",
+  "projectFilePath": "C:\\Stuff\\Development\\PoC\\Azure\\ApiProject\\ApiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
